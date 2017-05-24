@@ -1,0 +1,2 @@
+# MinjdTest
+first program
